@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bienvenidos a mi perfil de GitHub!!!<br><br>Futuro Software Developer...<br><br>Actualmente estoy estudiando programación en 4Geeks Academy.<br><br>Me considero una persona amable, justa, comprensible y llena de <br>ambiciones, siempre intento dar lo mejor de mí y cuando caigo, me <br>levanto, me sacudo el polvo y sigo adelante, soy una persona <br>responsable con las ideas muy claras y peleo por conseguir las <br>metas que me he propuesto en la vida y ser cada día mejor, no me <br>gusta perder el tiempo ni hacerlo perder a los demás.<br><br>Me encantan los videojuegos, dibujar, las motos custom y el cine de <br>terror.
+Bienvenidos a mi perfil de GitHub!!!<br><br>Software Developer...<br><br>Actualmente estoy estudiando programación en 4Geeks Academy.<br><br>Me considero una persona amable, justa, comprensible y llena de <br>ambiciones, siempre intento dar lo mejor de mí y cuando caigo, me <br>levanto, me sacudo el polvo y sigo adelante, soy una persona <br>responsable con las ideas muy claras y peleo por conseguir las <br>metas que me he propuesto en la vida y ser cada día mejor, no me <br>gusta perder el tiempo ni hacerlo perder a los demás.<br><br>Me encantan los videojuegos, dibujar, las motos custom y el cine de <br>terror.
 
 
 ## 🌐 Socials:
